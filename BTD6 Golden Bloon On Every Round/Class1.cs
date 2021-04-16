@@ -16,7 +16,7 @@ namespace BTD6_Golden_Bloon_On_Every_Round
     {
         public override void OnApplicationStart()
         {
-            MelonLogger.Log("Golden Bloon On Every Round loaded");
+            MelonLogger.Msg("Golden Bloon On Every Round loaded");
         }
         [HarmonyPatch(typeof(Simulation), "InitialiseMap")]
         public class MapLoader_Patch
