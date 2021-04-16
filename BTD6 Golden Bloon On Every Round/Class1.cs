@@ -8,7 +8,7 @@ using Assets.Scripts.Unity.UI_New.InGame;
 using Il2CppSystem;
 using Harmony;
 using Assets.Scripts.Simulation;
-[assembly: MelonInfo(typeof(BTD6_Golden_Bloon_On_Every_Round.Class1), "Golden Bloon On Every Round", "1.0.0", "kenx00x")]
+[assembly: MelonInfo(typeof(BTD6_Golden_Bloon_On_Every_Round.Class1), "Golden Bloon On Every Round", "1.1.0", "kenx00x")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6")]
 namespace BTD6_Golden_Bloon_On_Every_Round
 {
